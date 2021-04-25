@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="left">
+<a href="https://github.com/mohllal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohllal&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohllal&theme=dark&layout=compact&langs_count=8&hide_border=true"/>
+</a>
+</p>
+
 <!--
 **mohllal/mohllal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
