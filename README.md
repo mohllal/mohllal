@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 I’m currently working as Backend Engineer.
 - 💬 Ask me about JavaScript and Node.js.
-- 🎿 Hobbies other than coding: reading about startups 🦄 and playing FIFA :soccer:.
+- 🎿 Hobbies other than coding: reading about entrepreneurship 🦄 and playing FIFA :soccer:.
 - 📫 How to reach me:
   - kareem.mohllal@gmail.com.
   - LinkedIn [@mohllal](https://www.linkedin.com/in/mohllal/).
