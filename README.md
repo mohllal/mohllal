@@ -8,7 +8,6 @@
 
 - 👨🏽‍💻 I’m currently working as Backend Engineer.
 - 💬 Ask me about JavaScript and Node.js.
-- 👯 I’m happy to contribute on backend software engineering projects.
 - 🎿 Hobbies other than coding: reading about startups 🦄 and playing FIFA :soccer:.
 - 📫 How to reach me:
   - kareem.mohllal@gmail.com.
