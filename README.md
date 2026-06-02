@@ -3,6 +3,5 @@
 -->
 ### Hi there 👋
 
-- 👨🏽‍💻 Software Engineer.
 - 💬 Ask me about JavaScript and Python.
 - 📫 Reach me on [@mohllal](https://www.linkedin.com/in/mohllal/)
