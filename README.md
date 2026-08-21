@@ -3,5 +3,5 @@
 -->
 ### Hi there 👋
 
-- 💬 Ask me about JavaScript and Python.
-- 📫 Reach me on [@mohllal](https://www.linkedin.com/in/mohllal/)
+* ✍️ I write about software engineering and distributed systems at [mohllal.github.io](https://mohllal.github.io)
+* 📬 Reach me at [kareem.mohllal@gmail.com](mailto:kareem.mohllal@gmail.com)
